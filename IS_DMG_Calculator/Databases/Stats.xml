@@ -1,0 +1,28 @@
+<units>
+    <unit name="Pikeman" type="Nomi">
+        <Tier>D</Tier>
+        <Rank>1</Rank>
+        <HP>100</HP>
+        <MP>50</MP>
+        <RoA>20</RoA>
+        <BAP>35</BAP>
+        <PA>10</PA>
+        <SA>15</SA>
+        <PD>5</PD>
+        <SD>8</SD>
+        <DEX>90</DEX>
+    </unit>
+    <unit name="Swordsman" type="Nomi">
+        <Tier>D</Tier>
+        <Rank>1</Rank>
+        <HP>150</HP>
+        <MP>75</MP>
+        <RoA>30</RoA>
+        <BAP>45</BAP>
+        <PA>20</PA>
+        <SA>25</SA>
+        <PD>10</PD>
+        <SD>15</SD>
+        <DEX>85</DEX>
+    </unit>
+</units>

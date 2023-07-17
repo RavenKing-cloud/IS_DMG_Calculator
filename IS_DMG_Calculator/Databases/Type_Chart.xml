@@ -1,0 +1,11 @@
+<root>
+    <type name="Nomi">
+        <defender name="Rock" effectiveness="0.5"/>
+        <defender name="Ghost" effectiveness="0"/>
+    </type>
+    <type name="Hexen">
+        <defender name="Fire" effectiveness="0.5"/>
+        <defender name="Water" effectiveness="0.5"/>
+        <defender name="Grass" effectiveness="2"/>
+    </type>
+</root>

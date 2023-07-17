@@ -1,0 +1,9 @@
+<root>
+    <terrain>Grass</terrain>
+    <terrain>Forest</terrain>
+    <terrain>Hillside</terrain>
+    <weather>Sunny</weather>
+    <weather>Raining</weather>
+    <weather>Snowing</weather>
+    <weather>Hazy</weather>
+</root>

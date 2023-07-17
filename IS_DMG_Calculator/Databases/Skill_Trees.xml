@@ -1,0 +1,34 @@
+<root>
+    <unit>
+        <name>Pikeman</name>
+        <skill_tree>
+            <branch1>
+                <levelup_skill level="1">Skill 1</levelup_skill>
+                <levelup_skill level="5">Skill 2</levelup_skill>
+                <levelup_skill level="10">Skill 3</levelup_skill>
+            </branch1>
+            <branch2>
+                <levelup_skill level="1">Skill 4</levelup_skill>
+                <levelup_skill level="8">Skill 5</levelup_skill>
+                <levelup_skill level="15">Skill 6</levelup_skill>
+            </branch2>
+        </skill_tree>
+        <RankingLVL>30</RankingLVL>
+    </unit>
+    <unit>
+        <name>Swordsman</name>
+        <skill_tree>
+            <branch1>
+                <levelup_skill level="1">Skill 7</levelup_skill>
+                <levelup_skill level="5">Skill 8</levelup_skill>
+                <levelup_skill level="12">Skill 9</levelup_skill>
+            </branch1>
+            <branch2>
+                <levelup_skill level="1">Skill 10</levelup_skill>
+                <levelup_skill level="10">Skill 11</levelup_skill>
+                <levelup_skill level="20">Skill 12</levelup_skill>
+            </branch2>
+        </skill_tree>
+        <RankingLVL>40</RankingLVL>
+    </unit>
+</root>

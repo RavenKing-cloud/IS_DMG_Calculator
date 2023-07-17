@@ -1,0 +1,76 @@
+<root>
+    <TAs>
+        <ability>
+            <name>Ability 1</name>
+            <type>Fire</type>
+            <essence>Physical</essence>
+            <AP>80</AP>
+            <accuracy>90</accuracy>
+            <crit_chance>10</crit_chance>
+            <AMs>
+                <add_stat>
+                    <name>Attack</name>
+                    <value>20</value>
+                </add_stat>
+                <subtract_stat>
+                    <name>Defense</name>
+                    <value>10</value>
+                </subtract_stat>
+            </AMs>
+        </ability>
+        <ability>
+            <name>Ability 2</name>
+            <type>Water</type>
+            <essence>Special</essence>
+            <AP>90</AP>
+            <accuracy>95</accuracy>
+            <crit_chance>5</crit_chance>
+            <AMs>
+                <multiply_stat>
+                    <name>Special Attack</name>
+                    <percentage>1.2</percentage>
+                </multiply_stat>
+                <add_percentage>
+                    <name>Speed</name>
+                    <percentage>20</percentage>
+                </add_percentage>
+            </AMs>
+        </ability>
+        <!-- Add more teachable abilities -->
+    </TAs>
+    <LAs>
+        <ability>
+            <name>Ability 3</name>
+            <type>Electric</type>
+            <essence>Physical</essence>
+            <AP>70</AP>
+            <accuracy>80</accuracy>
+            <crit_chance>15</crit_chance>
+            <AMs>
+                <subtract_percentage>
+                    <name>Defense</name>
+                    <percentage>10</percentage>
+                </subtract_percentage>
+            </AMs>
+        </ability>
+        <!-- Add more learned abilities -->
+    </LAs>
+    <Skills>
+        <ability>
+            <name>Ability 4</name>
+            <type>Grass</type>
+            <essence>Special</essence>
+            <AP>85</AP>
+            <accuracy>100</accuracy>
+            <crit_chance>20</crit_chance>
+            <AMs>
+                <add_value_percentage>
+                    <name>Special Attack</name>
+                    <value>30</value>
+                    <percentage>0.5</percentage>
+                </add_value_percentage>
+            </AMs>
+        </ability>
+        <!-- Add more skills -->
+    </Skills>
+</root>

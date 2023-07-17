@@ -1,0 +1,32 @@
+<root>
+    <unit>
+        <name>Pikeman</name>
+        <moveset>
+            <levelup_move level="1">Ability 1</levelup_move>
+            <levelup_move level="7">Ability 2</levelup_move>
+            <levelup_move level="23">Ability 3</levelup_move>
+        </moveset>
+        <RankingLVL>30</RankingLVL>
+        <AMs>
+            <add_stat>
+                <name>Base Attack</name>
+                <value>10</value>
+            </add_stat>
+        </AMs>
+    </unit>
+    <unit>
+        <name>Swordsman</name>
+        <moveset>
+            <levelup_move level="1">Ability 4</levelup_move>
+            <levelup_move level="10">Ability 5</levelup_move>
+            <levelup_move level="18">Ability 6</levelup_move>
+        </moveset>
+        <RankingLVL>40</RankingLVL>
+        <AMs>
+            <add_stat>
+                <name>Base Attack</name>
+                <value>15</value>
+            </add_stat>
+        </AMs>
+    </unit>
+</root>
